@@ -1,5 +1,5 @@
 {
-  "name": "JOEL MD",
+  "name": "JOEL",
   "description": " Whatsapp bot made by GlobalTechInfo.",
   "keywords": [
     "whatsapp"
@@ -10,7 +10,7 @@
     "OWNERS": {
       "description": "owner numbers",
       "required": true,
-      "value": "237659620977"
+      "value": "237682364122"
     },
     "BOTNAME": {
       "description": "Give your BOT a name",
@@ -35,12 +35,12 @@
      "HKEY": {
       "description": "Put your Heroku api key Here , Get one from here https://dashboard.heroku.com/account",
       "required": true,
-      "value": ""
+      "value": "HRKU-e47c6633-b9cd-4ed5-8a11-52500990e35d"
     },
      "HAPP": {
       "description": "Put the Heroku app name, same as above entered",
       "required": true,
-      "value": ""
+      "value": "joel237"
     },
     "statusview": {
       "description": "make it true if you want bot to view status",
@@ -55,7 +55,7 @@
     "antidelete": {
       "description": "bot will forward deleted messages if you make it true",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
      "REMOVEBG_KEY": {
       "description": "your RemoveBg api key",
